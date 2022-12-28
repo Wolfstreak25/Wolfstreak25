@@ -1,4 +1,4 @@
-![](https://github.com/user/rage-game-over.gif)
+
 <h1 align="center">Hi 👋, I'm Vaibhav Rathod</h1>
 <h3 align="center">A passionate Unity developer from India</h3>
 - 🔭 I’m currently working on [A 2D RPG prototype](https://github.com/Wolfstreak25/MAT2-ActionRPG-)
