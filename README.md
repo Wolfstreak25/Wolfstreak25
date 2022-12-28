@@ -1,9 +1,6 @@
-[![MasterHead]([https://gfycat.com/absoluteantiquedesertpupfish](https://gfycat.com/absoluteantiquedesertpupfish))]
+![](https://github.com/user/rage-game-over.gif)
 <h1 align="center">Hi 👋, I'm Vaibhav Rathod</h1>
 <h3 align="center">A passionate Unity developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif](https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif)">
-
-
 - 🔭 I’m currently working on [A 2D RPG prototype](https://github.com/Wolfstreak25/MAT2-ActionRPG-)
 
 - 🌱 I’m currently learning **Unity3d**
