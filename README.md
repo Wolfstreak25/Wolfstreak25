@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/108297565/227481463-a85747e5-bfa7-433d-a85a-e3fca662fa27.png)
+![image](https://user-images.githubusercontent.com/108297565/227482728-1d6ba1aa-41d8-48a8-b1cd-3f9fb6c37f4f.png)
+
 
 <h1 align="center">Hi 👋, I'm Vaibhav Rathod</h1>
 <h3 align="center">A passionate Unity developer from India</h3>
