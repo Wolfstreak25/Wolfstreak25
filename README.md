@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaibhav Rathod</h1>
 <h3 align="center">A passionate Unity developer from India</h3>
-- 🔭 I’m currently working on [2048 clone](https://github.com/Wolfstreak25/power-of-two-v0.2)
-
+- 🔭 I’m currently working on [Unity Survival Shooter](https://github.com/Wolfstreak25/MAT-Survival)
 - 🌱 I’m currently learning **Unity3d**
 
 - 👯 I’m looking to collaborate on [Unity Survival Shooter](https://github.com/Wolfstreak25/MAT-Survival)
