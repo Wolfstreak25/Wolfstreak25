@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/108297565/227482728-1d6ba1aa-41d8-48a8-b1cd-3f9fb6c37f4f.png)
+![](https://github.com/Wolfstreak25/Wolfstreak25/blob/main/rage-game-over.gif)  
 
 
 <h1 align="center">Hi 👋, I'm Vaibhav Rathod</h1>
