@@ -1,7 +1,6 @@
-![](https://github.com/Wolfstreak25/Wolfstreak25/blob/main/rage-game-over.gif)  
-
-
+![](https://github.com/Wolfstreak25/Wolfstreak25/blob/main/Assassin_run.gif)  
 <h1 align="center">Hi 👋, I'm Vaibhav Rathod</h1>
+
 <h3 align="center">A passionate Unity developer from India</h3>
 
 - 🔭 I’m currently working on [2048 Clone](https://github.com/Wolfstreak25/power-of-two)
@@ -24,3 +23,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+![](https://github.com/Wolfstreak25/Wolfstreak25/blob/main/rage-game-over.gif)
