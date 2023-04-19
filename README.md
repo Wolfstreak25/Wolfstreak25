@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vaibhav-rathod-56600794/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-rathod-56600794/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCIhG3ATlNCrxjF7rSpLUZew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wolfstreak08" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/eJW3H5kj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eJW3H5kj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
