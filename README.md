@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Unity developer from India</h3>
 
-- 🔭 I’m currently working on [Assassin GO](https://github.com/Wolfstreak25/Assassin-GO/tree/Experimental-Aproach)
+- 🔭 I’m currently working on [Assassin GO](https://github.com/Wolfstreak25/Assassin-GO)
 - 🌱 I’m currently learning **Unity3d**
 
 - 👯 I’m looking to collaborate on [Unity Survival Shooter](https://github.com/Wolfstreak25/MAT-Survival)
